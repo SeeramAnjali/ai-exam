@@ -1,0 +1,10 @@
+^C:\USERS\ANJALI\DOWNLOADS\GARAGE_MONITOR_CPP_V2\BUILD\CMAKEFILES\F23E7D7C4B66DB141F575EDB8E4E38B9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SC:/Users/Anjali/Downloads/garage_monitor_cpp_v2 -BC:/Users/Anjali/Downloads/garage_monitor_cpp_v2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Anjali/Downloads/garage_monitor_cpp_v2/build/GarageMonitor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

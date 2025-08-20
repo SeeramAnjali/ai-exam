@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Anjali\Downloads\garage_monitor_cpp_v2\build\CMakeFiles\f23e7d7c4b66db141f575edb8e4e38b9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6C2EF84F-2A73-34DF-89A4-13B3FB9D7F1F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:/Users/Anjali/Downloads/garage_monitor_cpp_v2/build/CMakeFiles/garage_lib.dir
+C:/Users/Anjali/Downloads/garage_monitor_cpp_v2/build/CMakeFiles/garage.dir
+C:/Users/Anjali/Downloads/garage_monitor_cpp_v2/build/CMakeFiles/tests.dir
+C:/Users/Anjali/Downloads/garage_monitor_cpp_v2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Anjali/Downloads/garage_monitor_cpp_v2/build/CMakeFiles/ZERO_CHECK.dir

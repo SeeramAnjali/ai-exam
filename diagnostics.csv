@@ -1,0 +1,6 @@
+Car1, RPM, 6500
+Car1, CoolantTemp, 120
+Car1, EngineLoad, 95
+Car2, EngineLoad, 95
+Car2, RPM, 4500
+Car2, CoolantTemp, 88
